@@ -1,0 +1,8 @@
+E:\CoreExample\coredeploy\bin\Debug\netcoreapp1.0\coredeploy.deps.json
+E:\CoreExample\coredeploy\bin\Debug\netcoreapp1.0\coredeploy.runtimeconfig.json
+E:\CoreExample\coredeploy\bin\Debug\netcoreapp1.0\coredeploy.runtimeconfig.dev.json
+E:\CoreExample\coredeploy\bin\Debug\netcoreapp1.0\coredeploy.dll
+E:\CoreExample\coredeploy\bin\Debug\netcoreapp1.0\coredeploy.pdb
+E:\CoreExample\coredeploy\obj\Debug\netcoreapp1.0\coredeploy.AssemblyInfo.cs
+E:\CoreExample\coredeploy\obj\Debug\netcoreapp1.0\coredeploy.dll
+E:\CoreExample\coredeploy\obj\Debug\netcoreapp1.0\coredeploy.pdb
